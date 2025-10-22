@@ -2,8 +2,8 @@
 Site criado para a serraria SS.Emprendimentos de Ribeirão, PE
 
 ## Como visualizar
-Basta abrir o arquivo `https://ssempreendimentos.netlify.app
-` no navegador.  
+[Visite o site aqui](https://ssempreendimentos.netlify.app/)
+
 
 ## Sobre o Projeto
 Este site foi criado para a serraria SS.Empreendimentos localizada em Ribeirão, PE.  
