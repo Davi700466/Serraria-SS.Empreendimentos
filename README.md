@@ -39,9 +39,4 @@ Durante o desenvolvimento, aprimorei:
 
 ---
 
-## 📸 Prévia do Projeto
-![Screenshot do site](coloque_aqui_uma_imagem_do_site.png)
-
----
-
 > 💬 *“Projeto criado com o objetivo de fortalecer o portfólio e representar uma empresa real da região.”*
