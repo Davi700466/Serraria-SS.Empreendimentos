@@ -35,7 +35,7 @@ Durante o desenvolvimento, aprimorei:
 
 ## 👨‍💻 Desenvolvedores
 - **Davi Angelo** — Desenvolvimento front-end e estrutura geral
-- **Micael Vinícius** — Contribuições em aspectos gerais
+- **[Micael Vinícius](https://www.linkedin.com/in/micael-vinicius-10855936b)** — Contribuições em aspectos gerais
 
 ---
 
